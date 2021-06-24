@@ -30,3 +30,7 @@ We replaced all the “A", "T” with “0” and “G", "C” with “1” to o
 All the steps of data preprocessing, binary conversion and calculating frequency of binary patterns can be performed by using k_mer.py.
 The input file for maching learning model can be prepared by using script (generating_kNN_inputfile.py).
 Machine learning model (k-Nearest Neighbour) can be performed via script (kNN_script.py).
+
+For any queries please contact at the following email ids.
+vikas1101@gmail.com
+baljeetkaur26@hotmail.com 
