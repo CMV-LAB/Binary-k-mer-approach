@@ -1,1 +1,1 @@
-# Binary-k-mer-approach
+# Binary k-mer approach
