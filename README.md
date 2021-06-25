@@ -21,6 +21,9 @@ csv
 
 time
 
+itertools (documentation available at- https://docs.python.org/3/library/itertools.html)
+
+
 pandas (for installation see- https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 
 Numpy (for installation see- https://docs.scipy.org/doc/numpy-1.10.1/user/install.html)
