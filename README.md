@@ -41,7 +41,8 @@ The input file for the kNN model contains the number of sequences along the rows
 3. **kNN model**
 
 We tested the kNN (with neighbor = 5) using the input file for different k-mer ( k = 3 to k = 10) and the result showed that the features formed using 5-mer are the most distinguishing set for classifying coding and non-coding RNAs. This step can be performed by using script (kNN_script.py).
-You can access "A novel binary k-mer approach for classification of coding and non-coding RNAs across diverse species" manuscript at:
+
+**You can access "A novel binary k-mer approach for classification of coding and non-coding RNAs across diverse species" manuscript at:**
 https://www.biorxiv.org/content/10.1101/2021.06.21.449245v1
 
 
